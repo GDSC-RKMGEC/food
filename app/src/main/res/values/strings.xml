@@ -16,9 +16,15 @@
 -->
 <resources>
     <string name="app_name">Affirmations</string>
-    <string name="affirmation1">I am strong.</string>
-    <string name="affirmation2">I believe in myself.</string>
-    <string name="affirmation3">Each day is a new opportunity to grow and be a better version of myself.</string>
+    <string name="affirmation1">Chai point</string>
+    <string name="affirmation2">Rim Naam - Oberoi</string>
+    <string name="affirmation3">Ministry of food</string>
+    <string name="s1">Ministry of food</string>
+    <string name="s2">Ministry of food</string>
+    <string name="s3">Ministry of food</string>
+    <string name="r1">4.1</string>
+    <string name="r2">4.5</string>
+    <string name="r3">3.9</string>
     <string name="affirmation4">Every challenge in my life is an opportunity to learn from.</string>
     <string name="affirmation5">I have so much to be grateful for.</string>
     <string name="affirmation6">Good things are always coming into my life.</string>
